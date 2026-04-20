@@ -8,6 +8,9 @@ The Health Tracker is an R programming project that records and analyzes daily h
 
 The Health Tracker is a simple data analysis project built using R programming language. It helps users monitor and analyze their daily health metrics such as weight, steps, calories, and heart rate. The project demonstrates how R can be used for data tracking, visualization, and basic health insights.
 
+
+
+
 2) Features
 📊 Track daily health data (weight, steps, calories, heart rate)
 📅 Store and manage records over time
@@ -25,6 +28,8 @@ dplyr
 readr
 
 
+
+
 4) Project Structure
 Health-Tracker-R/
 │── data/
@@ -34,6 +39,9 @@ Health-Tracker-R/
 │── outputs/
 │   └── plots.png
 │── README.md
+
+
+
 
 
 6) How to Run
@@ -47,16 +55,25 @@ Open the project in RStudio
 Run the script:
 source("scripts/tracker.R")
 
+
+
+
 7) Sample Data Format
 Date,Weight,Steps,Calories,HeartRate
 2026-04-01,65,8000,2000,72
-2026-04-02,64.8,9000,2100,75
+2
+
+
+026-04-02,64.8,9000,2100,75
+
+
    
 8) Example Visualizations
 Weight trend over time
 Steps per day graph
 Calories burned analysis
 Heart rate monitoring chart
+
 
 
 9) Future Improvements
